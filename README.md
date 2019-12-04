@@ -1,4 +1,4 @@
-# dicodingSubmission
+# First Android Application Project
 
 So this is my first android project from dicoding.com . 
 To finish the class , i must made some apps that have 3 conditions :
