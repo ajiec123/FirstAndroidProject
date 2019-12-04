@@ -1,0 +1,22 @@
+<resources>
+
+    <!--    homepage view-->
+
+    <string name="selectmenu">Select a menu</string>
+    <string name="beverages">Beverages</string>
+    <string name="burgers">Burger</string>
+    <string name="chickens">Chiken</string>
+    <string name="sidesfoods">SidesFood</string>
+
+    <!--    list view-->
+    <string name="food_name">Nama Makanan</string>
+    <string name="food_detail">Detail</string>
+    <string name="btn_details">More Details</string>
+
+<!--    nama action bar-->
+    <string name="app_name">MySubmissionApps2</string>
+    <string name="item_name">List Burger</string>
+    <string name="burger_detail">Burger Details</string>
+
+
+</resources>
